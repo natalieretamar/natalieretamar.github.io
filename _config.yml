@@ -57,7 +57,7 @@ owner:
   bing-verify:
   github: 'https://github.com/natalieretamar'
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: "https://www.linkedin.com/in/natalieretamar"
+  linkedin: "/natalieretamar"
   xing: #username
   instagram: "@nyc_nat"
   lastfm: #username
