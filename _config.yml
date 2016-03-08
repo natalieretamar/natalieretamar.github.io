@@ -46,7 +46,7 @@ owner:
   bio: "Friendly and curious. Sales pro turned data nerd. Craft nut. Really like Python and pineapples."
   email: Natalie.Retamar@gmail.com
   disqus-shortname:
-  twitter: 'da_CasObserver'
+  twitter: '@da_CasObserver'
   facebook: #username
   google:
     plus: #username
@@ -55,11 +55,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: https://github.com/natalieretamar
+  github: 'https://github.com/natalieretamar'
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: https://www.linkedin.com/in/natalieretamar
+  linkedin: "https://www.linkedin.com/in/natalieretamar"
   xing: #username
-  instagram: #nyc_nat
+  instagram: "@nyc_nat"
   lastfm: #username
   tumblr: #username
   pinterest: #username
