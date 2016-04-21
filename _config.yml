@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Pineapples and Python
+title:            Data Science Adventures
 locale:           en_US
 url:
 
@@ -42,11 +42,11 @@ titlecase: true
 # Site owner
 owner:
   name: Natalie Retamar
-  avatar: bio-photo.jpg
-  bio: "Friendly and curious. Sales pro turned data nerd. Craft nut. Really like Python and pineapples."
+  avatar: bio-photo-pink.png
+  bio: "Friendly and curious. Sales pro turned Data nerd. Craft nut."
   email: Natalie.Retamar@gmail.com
   disqus-shortname:
-  twitter: "@da_CasObserver"
+  twitter: 
   facebook: #username
   google:
     plus: #username
@@ -59,7 +59,7 @@ owner:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: "/natalieretamar"
   xing: #username
-  instagram: "@nyc_nat"
+  instagram: 
   lastfm: #username
   tumblr: #username
   pinterest: #username
