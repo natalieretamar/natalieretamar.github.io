@@ -14,8 +14,8 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	padding: 2em 0 1em;
-	font-family: $heading-font;
+	padding: 1em 0 0;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
@@ -28,7 +28,7 @@ body {
 	@include suffix(12,1);
 	margin-bottom: 1em;
 	float: none;
-	display: block;
+
 	@include font-rem(24);
 	@media #{$small} {
 		@include grid(12,2);
@@ -340,7 +340,7 @@ $button-size: 1.5rem;
 /* Post byline */
 .byline {
 	clear: both;
-	font-size: 80%;
+	font-size: 90%;
 }
 .article-author-side,
 .article-author-bottom {
